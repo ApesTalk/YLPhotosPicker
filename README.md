@@ -9,6 +9,6 @@
 
 ## 示例：
 
-
+[](https://github.com/lqcjdx/YLPhotosPicker/blob/master/picker.gif)
 
 
